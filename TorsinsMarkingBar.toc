@@ -1,0 +1,18 @@
+## Interface: 80100
+## Version: 0.05
+## Title: Torsins Marking Bar
+## Notes: Customized Marking Bar Interface
+## Author: Torsin
+## SavedVariables: TorsinsMarkingBarDB
+
+## Embedded libraries
+Libs\Libs.xml
+
+## Locale Translations
+## Locales\Locales.xml
+
+## Core functionality
+Core.lua
+
+## User Interface
+UI.lua
