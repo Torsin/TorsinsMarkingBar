@@ -1,5 +1,5 @@
-## Interface: 80100
-## Version: 0.05
+## Interface: 80300
+## Version: 0.1
 ## Title: Torsins Marking Bar
 ## Notes: Customized Marking Bar Interface
 ## Author: Torsin
